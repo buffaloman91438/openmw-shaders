@@ -83,7 +83,7 @@
     #define WAVE_HEIGHT 6.0
 
     // As-yet undocumented settings
-    #define TINT 0.5
+    #define TINT 0.50
     #define HUE_SHIFT 0.0
     #define CAUSTICS 1
 #elif (PRESET == VANILLA)
